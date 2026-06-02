@@ -12,3 +12,4 @@ Some of our projects are here:
 
 [Fusion](https://github.com/thelitzproject/fusion) - A Vulkan rendering library
 
+[Fuse](https://github.com/thelitzproject/fuse) - A ChromeOS bug we found poking around in code. Sort of like Sh1mmer. Worked on a `Grunt` Chromebook
