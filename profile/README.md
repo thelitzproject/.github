@@ -10,6 +10,6 @@ Some of our projects are here:
 
 [Litzium](https://github.com/thelitzproject/litzium) - An Electron and Chromium based browser
 
-[Fusion](https://github.com/thelitzproject/fusion) - A Vulkan rendering library
+[Fusion](https://github.com/thelitzproject/fusion) - A Vulkan rendering library (**Not maintained**)
 
 [Fuse](https://github.com/thelitzproject/fuse) - A ChromeOS bug we found poking around in code. Sort of like Sh1mmer. Worked on a `Grunt` Chromebook once. We don't know if it works anymore
