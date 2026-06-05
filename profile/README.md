@@ -15,3 +15,5 @@ Some of our projects are here:
 [Fusion](https://github.com/thelitzproject/fusion) - A Vulkan rendering library (**Not maintained**)
 
 [Fuse](https://github.com/thelitzproject/fuse) - A ChromeOS bug we found poking around in code. Sort of like Sh1mmer. Worked on a `Grunt` Chromebook once. We don't know if it works anymore
+
+[Bruschetta](https://github.com/thelitzproject/bruschetta) - A lightweight JavaScript engine we made a few years ago
