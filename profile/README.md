@@ -13,3 +13,5 @@ Some of our projects are here:
 [Litzium](https://github.com/thelitzproject/litzium) - An Electron and Chromium based browser
 
 [Bruschetta](https://github.com/thelitzproject/bruschetta) - A lightweight JavaScript engine we made a few years ago
+
+[Mocha](https://github.com/thelitzproject/mocha) - A kernel inspired by XNUs engineering. An OS is currently being made on top of it in a private repository
