@@ -6,7 +6,7 @@ We were formerly known as Bluegill Studios. Repositories and projects that are s
 
 Some of our projects are here:
 
-[FraniumOS](https://github.com/thelitzproject/franiumos) - An OS with a custom kernel. Originally a side project to franchukOS and is now releasing versions after importing to GitHub a few weeks ago.
+[FraniumOS](https://github.com/thelitzproject/franiumos) - An OS with a custom kernel. Originally a side project to franchukOS.
 
 [GeckoOS](https://github.com/thelitzproject/geckoOS) - The main continuation of the old FranchukOS. A desktop environment web OS. (**Rarely updated, not in focus anymore**)
 
