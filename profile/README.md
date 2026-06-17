@@ -9,5 +9,3 @@ Some of our projects are here:
 [FraniumOS](https://github.com/thelitzproject/franiumos) - An OS with a custom kernel. Originally a side project to franchukOS.
 
 [Litzium](https://github.com/thelitzproject/litzium) - An Electron and Chromium based browser
-
-[Mocha](https://github.com/thelitzproject/mocha) - A kernel inspired by XNUs engineering. An OS is currently being made on top of it in a private repository
